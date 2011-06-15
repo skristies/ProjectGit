@@ -6,4 +6,5 @@
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
 	<s:Label text="Testando GIT"/>
+	<s:Label text="Testando GIT 2"/>
 </s:Application>
